@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DownloadableFonts</string>
+    <string name="test_txt">Android 8.0 (API level 26) and Android Support Library 26 introduce support for APIs to request fonts from a provider application instead of bundling files into the APK or letting the APK download fonts.</string>
+</resources>
